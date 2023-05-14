@@ -1,0 +1,15 @@
+.pannel{
+    background-color: rgb(109, 163, 245);
+    color:aliceblue;
+    position: absolute;
+    width:20%;
+    height: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.prix{
+    text-align: right;
+}
+.article{
+    text-align: left;
+}

@@ -1,0 +1,6 @@
+.shoppingList{
+    position: absolute;
+    left: 21%;
+    display:flex;
+    flex-wrap: wrap;
+}

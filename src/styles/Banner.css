@@ -1,0 +1,16 @@
+.banner{
+    border-bottom: 2px black solid;
+    background-color: rgb(109, 163, 245);
+    height:300px;
+}
+.logo{
+    width: 300px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 100px;
+    position: absolute;
+    right: 30px;
+}
+.logo:hover{
+    rotate: 30deg;
+}
